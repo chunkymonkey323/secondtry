@@ -1,0 +1,259 @@
+[
+    {
+        "nation": "Argentina",
+        "region": "South America",
+        "world_ranking": 3,
+        "group": "C",
+        "image": "images/argentina.png",
+        "price": 10
+    },
+    {
+        "nation": "Australia",
+        "region": "Oceania",
+        "world_ranking": 38,
+        "group": "D",
+        "image": "images/australia.png",
+        "price": 11
+    },
+    {
+        "nation": "Belgium",
+        "region": "Europe",
+        "world_ranking": 2,
+        "group": "F",
+        "image": "images/belgium.png",
+        "price": 12
+    },
+    {
+        "nation": "Brazil",
+        "region": "South America",
+        "world_ranking": 1,
+        "group": "G",
+        "image": "images/brazil.png",
+        "price": 10
+    },
+    {
+        "nation": "Cameroon",
+        "region": "Africa",
+        "world_ranking": 43,
+        "group": "G",
+        "image": "images/cameroon.png",
+        "price": 16
+    },
+    {
+        "nation": "Canada",
+        "region": "North, Central America and Caribbean",
+        "world_ranking": 41,
+        "group": "F",
+        "image": "images/canada.png",
+        "price": 8
+    },
+    {
+        "nation": "Costa Rica",
+        "region": "North, Central America and Caribbean",
+        "world_ranking": 31,
+        "group": "E",
+        "image": "images/costarica.png",
+        "price": 14
+    },
+    {
+        "nation": "Croatia",
+        "region": "Europe",
+        "world_ranking": 31,
+        "group": "F",
+        "image": "images/croatia.png",
+        "price": 15
+    },
+    {
+        "nation": "Denmark",
+        "region": "Europe",
+        "world_ranking": 10,
+        "group": "D",
+        "image": "images/denmark.png",
+        "price": 8
+    },
+    {
+        "nation": "Ecuador",
+        "region": "South America",
+        "world_ranking": 44,
+        "group": "A",
+        "image": "images/ecuador.png",
+        "price": 9
+    },
+    {
+        "nation": "England",
+        "region": "Europe",
+        "world_ranking": 5,
+        "group": "B",
+        "image": "images/england.png",
+        "price": 10
+    },
+    {
+        "nation": "France",
+        "region": "Europe",
+        "world_ranking": 4,
+        "group": "D",
+        "image": "images/france.png",
+        "price": 11
+    },
+    {
+        "nation": "Germany",
+        "region": "Europe",
+        "world_ranking": 11,
+        "group": "E",
+        "image": "images/germany.png",
+        "price": 13
+    },
+    {
+        "nation": "Ghana",
+        "region": "Africa",
+        "world_ranking": 61,
+        "group": "H",
+        "image": "images/ghana.png",
+        "price": 10
+    },
+    {
+        "nation": "Iran",
+        "region": "Asia",
+        "world_ranking": 20,
+        "group": "B",
+        "image": "images/iran.png",
+        "price": 12
+    },
+    {
+        "nation": "Japan",
+        "region": "Asia",
+        "world_ranking": 24,
+        "group": "E",
+        "image": "images/japan.png",
+        "price": 8
+    },
+    {
+        "nation": "Mexico",
+        "region": "North, Central America and Caribbean",
+        "world_ranking": 13,
+        "group": "C",
+        "image": "images/mexico.png",
+        "price": 15
+    },
+    {
+        "nation": "Morocco",
+        "region": "Africa",
+        "world_ranking": 22,
+        "group": "F",
+        "image": "images/morocco.png",
+        "price": 13
+    },
+    {
+        "nation": "Netherlands",
+        "region": "Europe",
+        "world_ranking": 8,
+        "group": "A",
+        "image": "images/netherlands.png",
+        "price": 15
+    },
+    {
+        "nation": "Poland",
+        "region": "Europe",
+        "world_ranking": 26,
+        "group": "C",
+        "image": "images/poland.png",
+        "price": 8
+    },
+    {
+        "nation": "Portugal",
+        "region": "Europe",
+        "world_ranking": 9,
+        "group": "H",
+        "image": "images/portugal.png",
+        "price": 10
+    },
+    {
+        "nation": "Qatar",
+        "region": "Asia",
+        "world_ranking": 50,
+        "group": "A",
+        "image": "images/qatar.png",
+        "price": 13
+    },
+    {
+        "nation": "Saudi Arabia",
+        "region": "Asia",
+        "world_ranking": 51,
+        "group": "C",
+        "image": "images/saudiarabia.png",
+        "price": 14
+    },
+    {
+        "nation": "Senegal",
+        "region": "Africa",
+        "world_ranking": 18,
+        "group": "A",
+        "image": "images/senegal.png",
+        "price": 16
+    },
+    {
+        "nation": "Serbia",
+        "region": "Europe",
+        "world_ranking": 21,
+        "group": "G",
+        "image": "images/serbia.png",
+        "price": 10
+    },
+    {
+        "nation": "South Korea",
+        "region": "Asia",
+        "world_ranking": 28,
+        "group": "H",
+        "image": "images/southkorea.png",
+        "price": 9
+    },
+    {
+        "nation": "Spain",
+        "region": "Europe",
+        "world_ranking": 7,
+        "group": "E",
+        "image": "images/spain.png",
+        "price": 12
+    },
+    {
+        "nation": "Switzerland",
+        "region": "Europe",
+        "world_ranking": 15,
+        "group": "G",
+        "image": "images/switzerland.png",
+        "price": 13
+    },
+    {
+        "nation": "Tunisia",
+        "region": "Asia",
+        "world_ranking": 30,
+        "group": "D",
+        "image": "images/tunisia.png",
+        "price": 11
+    },
+    {
+        "nation": "Uruguay",
+        "region": "South America",
+        "world_ranking": 14,
+        "group": "H",
+        "image": "images/uruguay.png",
+        "price": 14
+    },
+    {
+        "nation": "USA",
+        "region": "North, Central America and Caribbean",
+        "world_ranking": 16,
+        "group": "B",
+        "image": "images/usa.png",
+        "price": 13
+    },
+    {
+        "nation": "Wales",
+        "region": "Europe",
+        "world_ranking": 19,
+        "group": "B",
+        "image": "images/wales.png",
+        "price": 9
+    }
+  ]
+  
